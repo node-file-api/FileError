@@ -1,5 +1,5 @@
 {
-  "name"          : "fileerror",
+  "name"          : "file-error",
   "description"   : "HTML5 FileAPI `FileError` for Node.js",
   "url"           : "http://github.com/coolaj86/node-file-api/",
   "keywords"      : ["html5", "jsdom", "file-api", "FileError"],
